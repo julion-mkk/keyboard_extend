@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/keyboard_extend/BuildConfig.java
+ com.example.keyboard_extend.BuildConfig
